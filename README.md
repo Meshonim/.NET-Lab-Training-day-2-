@@ -14,6 +14,9 @@ Plan
         2. Type system (static, strong)
         3. Simple program
 2. Types in C#.
-    1. kk
-    2. jkb
+    1. General information
+    2. Reference types
+    3. Value types
+    4. Boxing
+    5. Comparasion of reference and value types
 3. Methods in details.
