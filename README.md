@@ -3,9 +3,9 @@ Plan
 1. Introducing .NET Framework. Introducing C#. Basic Coding in C#
     1. .NET as software framework
         1. General information
-        2. CLR
-        3. CLS
-        4. CTS (EEClass, MethodTable)
+        2. CTS (EEClass, MethodTable)
+        3. CTS
+        4. CLR
         5. Managed module (MSIL, Metadata)
         6. Assembly (manifest, String-naming)
         7. JIT
