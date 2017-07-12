@@ -19,4 +19,15 @@ Plan
     3. Value types
     4. Boxing
     5. Comparasion of reference and value types
-3. Methods in details.
+3. Methods in details
+    1. General information
+    2. Definition
+    3. Call
+    4. Evaluation stack (local variables, function arguments)
+    5. Overloading
+    6. Named and opntional arguments
+    7. Ref, out
+    8. Partial classes
+    9. Static methods
+    10. Extension methods
+    11. Operator overloading
