@@ -10,7 +10,7 @@ Plan
         6. Assembly (manifest, String-naming)
         7. JIT
     2. C#
-        1. General information (System.Object)
+        1. General information (System.Object, SyncBlock)
         2. Type system (static, strong)
         3. Simple program
 2. Types in C#.
